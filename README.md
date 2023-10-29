@@ -1,4 +1,4 @@
 # My journey learning code 🧐
-##resources
+## resources
 1. p5*Js creative code
-[https://p5js.org/)
+https://p5js.org/
