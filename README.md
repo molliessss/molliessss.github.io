@@ -1,8 +1,7 @@
 # My journey learning code 🧐
 ## resources
-[I'm an inline-style link](https://www.google.com)
-[p5*Js creative code](https://p5js.org/)
-[The nature of code on p5*Js follow along videos](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
+1. [p5*Js creative code](https://p5js.org/)
+2. [The nature of code on p5*Js follow along videos](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 4. ‘nature of code’ document 
 (https://natureofcode.com/)
 5. processing - other type of code
