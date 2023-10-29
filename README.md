@@ -5,7 +5,7 @@ https://p5js.org/
 2. The nature of code on p5*Js follow along videos. Teaching p5*Js
 [https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 3. ‘nature of code’ document 
-[https://natureofcode.com/)
+(https://natureofcode.com/)
 4. processing - other type of code
 [https://processing.org/)
 5. Code as a creative medium book
