@@ -4,7 +4,7 @@
 2. [The nature of code on p5*Js follow along videos](https://www.youtube.com/watch?v=70MQ-FugwbI&list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
 4. [Nature of Code document](https://natureofcode.com/)
 5. [processing](https://processing.org/)
-6. Code as a creative medium book](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)
+6. [Code as a creative medium book](https://mitpress.mit.edu/9780262542043/code-as-creative-medium/)
 7. [How to complete the books tasks](https://github.com/CodeAsCreativeMedium/exercises)
 8. [Free books and documents](https://annas-archive.org/)
 9. [Java Script for beginners](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
