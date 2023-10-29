@@ -16,10 +16,5 @@ https://p5js.org/
 [https://annas-archive.org/)
 8. Java Script for beginners
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-## What is Javascript? 
-... HTML- designing website layout
-... Js- Adding graphics or interactive pieces to your website
-... What is Js used for?
-... Store useful values inside variables. In the above example for instance, we ask for a new name to be entered then store that name in a variable called name.
-... Operations on pieces of text (known as "strings" in programming). In the above example we take the string "Player 1: " and join it to the name variable to create the complete text label, e.g. "Player 1: Chris".
-...Running code in response to certain events occurring on a web page. 
+## What is JavaScript? 
+... HTML- JavaScript is used for adding graphics or interactive pieces to your website, compared to Html which is used to create the website itself. For example, JavaScript can store useful values inside variables. It can edit  pieces of text (known as "strings" in programming). For example, we take the string "Player 1: " and join it to the name variable to create the complete text label, e.g. "Player 1: Chris". JavaScript can also be used to rn code in response to certain events occurring on a web page. 
